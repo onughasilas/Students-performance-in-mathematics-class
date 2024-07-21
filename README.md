@@ -11,13 +11,15 @@ After collecting the students scores , i inputed the data in Excel sheet
 I cleaned the data by;
 * Removing duplicate ; Data --> Remove duplicate --> All --> Ok
 * Removing extra space , `=TRIM(A2:f16)`
-##STEP4: Filtering empy cells
+  
+## STEP4: Filtering empy cells
 Helight all --> Filter -->select filter icon on each cell --> Check the required boxes -->ok
-##STEP5: Creating new columns
+## STEP5: Creating new columns
 I created new columns to aid my analysis sucs as;
 * Weighted Average `= C3*$C$2 + D3*$D$2 + E3*$E$2 + F3*$F$2 + G3*$G$2` for each student
 * Average score `=AVERAGE(C3:G3)` for each student
-##STEP6: Pivot table
+  
+## STEP6: Pivot table
 I created the following tables to be able to viualize my data and understand how those variables affects the performance of students in mathematics
 * Gender
 * Age
