@@ -21,6 +21,7 @@ I created new columns to aid my analysis sucs as;
 I created the following tables to be able to viualize my data and understand how those variables affects the performance of students in mathematics
 * Gender
 * Age
-* Parental care/Wealth
-#STEP7:I created Bar chat, line chart for claer understanding of the relationship.
+* Parental care/Wealth.
+  
+##STEP7:I created Bar chat, line chart for claer understanding of the relationship.
 
