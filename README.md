@@ -10,6 +10,6 @@ After collecting the students scores , i inputed the data in Excel sheet
 Data cleaning.
 ## STEP3: Data cleaning. 
 I cleaned the data by;
-*Removing duplicate ; Data --> Remove duplicate --> All --> Ok
-*Removing extra space , `=TRIM(A2:f16)`
+* Removing duplicate ; Data --> Remove duplicate --> All --> Ok
+* Removing extra space , `=TRIM(A2:f16)`
 
