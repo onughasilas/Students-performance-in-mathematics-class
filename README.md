@@ -23,5 +23,5 @@ I created the following tables to be able to viualize my data and understand how
 * Age
 * Parental care/Wealth.
   
-##STEP7:I created Bar chat, line chart for claer understanding of the relationship.
+## STEP7:I created Bar chat, line chart for claer understanding of the relationship.
 
